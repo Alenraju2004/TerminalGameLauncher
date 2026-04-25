@@ -1,0 +1,9 @@
+pygame
+opencv-python
+mediapipe
+google-genai
+pynput
+SpeechRecognition
+PyAudio
+python-dotenv
+scipy
