@@ -23,7 +23,6 @@ A professional, high-performance terminal-based game library and accessibility e
 ```text
 terminal-game-launcher/
 ├── run.py                # Main Entry Point
-├── .env                  # Environment Variables (API Keys)
 ├── requirements.txt      # Project Dependencies
 ├── src/
 │   ├── launcher.py       # Curses-based Menu UI
